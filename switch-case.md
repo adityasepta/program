@@ -1,6 +1,6 @@
 # program
 Welcome to Aditya Septa Project
-![alt tag](#http://program2.duke.edu/uploads/media_items/program-ii-logo.600.607.s.png#)
+![alt tag](http://program2.duke.edu/uploads/media_items/program-ii-logo.600.607.s.png)
 Java program that uses switch - case
 
 public class Program {
